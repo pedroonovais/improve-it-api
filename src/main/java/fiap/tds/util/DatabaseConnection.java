@@ -6,8 +6,8 @@ import oracle.jdbc.pool.OracleDataSource;
 
 public class DatabaseConnection {
     private static final String URL = "jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl";
-    private static final String USER = "rm554914";
-    private static final String PASSWORD = "161105";
+    private static final String USER = "rmXXXXXX";
+    private static final String PASSWORD = "XXXXXX";
     
     private Connection conn = null;
 
